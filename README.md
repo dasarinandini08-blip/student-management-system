@@ -258,4 +258,4 @@ This project is developed for educational purposes.
 
 ---
 
-*Built by **Dasari Nandini** — [GitHub](https://github.com/dasarinandini08-blip) · [LinkedIn](https://linkedin.com/in/nandini-dasari) · [dasarinandini08@gmail.com](mailto:dasarinandini08@gmail.com)*
+*Built by **Dasari Nandini** — [GitHub](https://github.com/dasarinandini08-blip) · [LinkedIn](https://www.linkedin.com/in/nandini-dasari-475983355) · [dasarinandini08@gmail.com](mailto:dasarinandini08@gmail.com)*
