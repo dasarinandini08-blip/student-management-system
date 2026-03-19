@@ -11,7 +11,7 @@ A full-featured desktop application built with **Python** and **Tkinter** for ma
 | **Name** | Dasari Nandini |
 | **Email** | [dasarinandini08@gmail.com](mailto:dasarinandini08@gmail.com) |
 | **GitHub** | [github.com/dasarinandini08-blip](https://github.com/dasarinandini08-blip) |
-| **LinkedIn** | [linkedin.com/in/nandini-dasari](https://linkedin.com/in/nandini-dasari) |
+| **LinkedIn** | [linkedin.com/in/nandini-dasari](https://www.linkedin.com/in/nandini-dasari-475983355) |
 
 ---
 
